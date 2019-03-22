@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "gcsv"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Easy pasting of CSV files to Google Sheets."
+authors = ["Liam Corbett"]
+license = "MIT"
+readme = "README.rst"
+repository = "https://github.com/liamCorbett/g-csv"
 
 [tool.poetry.dependencies]
 python = "^3.7"
